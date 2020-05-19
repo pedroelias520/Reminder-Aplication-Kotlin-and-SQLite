@@ -38,7 +38,7 @@
                     android:layout_height="45dp"
                     android:inputType="textPersonName"
                     android:ems="10"
-                    android:id="@+id/editText" android:layout_weight="1"/>
+                    android:id="@+id/NomeText" android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
                 android:padding="10dp"
@@ -63,7 +63,7 @@
                     android:layout_height="45dp"
                     android:inputType="textPersonName"
                     android:ems="10"
-                    android:id="@+id/editText2" android:layout_weight="1"/>
+                    android:id="@+id/HoraText" android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
                 android:padding="10dp"
@@ -89,7 +89,7 @@
                     android:layout_height="45dp"
                     android:inputType="textPersonName"
                     android:ems="10"
-                    android:id="@+id/editText3" android:layout_weight="1"/>
+                    android:id="@+id/DescricaoText" android:layout_weight="1"/>
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
     <TextView
